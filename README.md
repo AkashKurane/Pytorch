@@ -1,2 +1,2 @@
 # Pytorch
-basics of torch
+intoduction to torch
